@@ -11,7 +11,7 @@ function init() {
       index++;
       
       if (index === code.length) {
-        alert("hurrary!");
+        alert("hurray!");
         
         index = 0;
       }
